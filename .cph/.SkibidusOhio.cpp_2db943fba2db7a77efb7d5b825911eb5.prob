@@ -1,0 +1,1 @@
+{"name":"Local: SkibidusOhio","url":"d:\\java\\cp\\SkibidusOhio.cpp","tests":[{"id":1739115668493,"input":"4\nbaa\nskibidus\ncc\nohio\n","output":"1\n8\n1\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\cp\\SkibidusOhio.cpp","group":"local","local":true}
